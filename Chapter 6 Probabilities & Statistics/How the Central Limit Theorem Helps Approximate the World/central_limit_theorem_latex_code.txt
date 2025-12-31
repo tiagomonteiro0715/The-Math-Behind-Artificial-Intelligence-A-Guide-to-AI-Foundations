@@ -1,0 +1,1 @@
+\bar{X} \approx N\left(\mu, \frac{\sigma^2}{n}\right) \quad \text{or equivalently} \quad Z = \frac{\bar{X} - \mu}{\sigma/\sqrt{n}} \approx N(0, 1)
