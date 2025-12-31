@@ -11,7 +11,7 @@ Here is one I have in another repository:
 
 [Signal Processing and Systems in Programming – Guide for Beginners](https://github.com/tiagomonteiro0715/Signal-Processing-and-Systems-in-Programming-Guide-for-Beginners)
 
-And here is the github repository to the python and latex code of the book: The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations
+And here is the github repository to the python and latex code of the book: [The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations](https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations/tree/main)
 
 Additionally, the images I create for my articles can also be found there. 
 
