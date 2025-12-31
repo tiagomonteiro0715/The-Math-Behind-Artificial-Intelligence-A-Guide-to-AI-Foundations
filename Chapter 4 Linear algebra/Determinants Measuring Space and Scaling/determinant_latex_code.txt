@@ -1,0 +1,119 @@
+ A = \begin{bmatrix}
+a & b \\
+c & d
+\end{bmatrix}.
+
+ \det(A) = ad - bc
+
+|A| = ad - bc
+
+ |A| = 
+\begin{vmatrix}
+2 & 3 \\
+1 & 4
+\end{vmatrix}
+= (2)(4) - (3)(1) = 8 - 3 = 5.
+
+|B|= \begin{vmatrix}
+a & b & c \\
+d & e & f \\
+g & h & i
+\end{vmatrix}
+= aei + bfg + cdh - ceg - bdi - afh.
+
+
+|B| =
+\begin{vmatrix}
+1 & 2 & 3 \\
+0 & 4 & 5 \\
+1 & 0 & 6
+\end{vmatrix} = (1)(4)(6) + (2)(5)(1) + (3)(0)(0) 
+- (3)(4)(1) - (2)(0)(6) - (1)(5)(0) 
+
+
+ = (1)(4)(6) + (2)(5)(1) - (3)(4)(1) = 4 \cdot 6 + 2 \cdot 5 - ( 3 \cdot 4) = 24+10-12 = 22
+
+
+
+D = \begin{bmatrix}
+2 & -1 & 3 \\
+4 & 0 & -2 \\
+-1 & 5 & 1
+\end{bmatrix}
+
+
+
+\begin{align}
+2x_1 - x_2 + 3x_3 &= p \\
+4x_1 + 0x_2 - 2x_3 &= q \\
+-x_1 + 5x_2 + x_3 &= r
+\end{align}
+
+
+\begin{equation}
+D = \left[ D_1 \mid D_2 \mid D_3 \right] = 
+\left[ \begin{bmatrix}
+2 \\
+4 \\
+-1
+\end{bmatrix} \mid \begin{bmatrix}
+-1 \\
+0 \\
+5
+\end{bmatrix} \mid \begin{bmatrix}
+3 \\
+-2 \\
+1
+\end{bmatrix} \right]
+\end{equation}
+
+
+% Column vector D1
+\begin{equation}
+D_1 = \begin{bmatrix}
+2 \\
+4 \\
+-1
+\end{bmatrix}
+\end{equation}
+
+% Column vector D2
+\begin{equation}
+D_2 = \begin{bmatrix}
+-1 \\
+0 \\
+5
+\end{bmatrix}
+\end{equation}
+
+% Column vector D3
+\begin{equation}
+D_3 = \begin{bmatrix}
+3 \\
+-2 \\
+1
+\end{bmatrix}
+\end{equation}
+
+  A = 
+\begin{bmatrix}
+2 & 3 \\
+1 & 4
+\end{bmatrix}
+
+
+  |A| = 
+\begin{vmatrix}
+2 & 3 \\
+1 & 4
+\end{vmatrix}
+= (2)(4) - (3)(1) = 8 - 3 = 5.
+
+F = \begin{bmatrix} 1 & 2 \\ 2 & 4 \end{bmatrix}
+
+|F| = \begin{vmatrix} 1 & 2 \\ 2 & 4 \end{vmatrix} = (1)(4) - (2)(2) = 4 - 4 = 0
+
+
+G = \begin{bmatrix} 1 & 5 \\ 2 & 3 \end{bmatrix}
+
+|G| = \begin{vmatrix} 1 & 5 \\ 2 & 3 \end{vmatrix} = (1)(3) - (5)(2) = 3 - 10 = -7

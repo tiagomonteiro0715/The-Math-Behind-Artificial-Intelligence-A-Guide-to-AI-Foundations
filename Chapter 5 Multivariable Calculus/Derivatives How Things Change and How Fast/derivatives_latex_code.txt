@@ -1,0 +1,19 @@
+\text{slope} = \frac{1 - 0.2}{1.6 - 0.2} = \frac{0.8}{1.4} = \frac{4}{7} \approx 0.571
+
+y=0.571x + 0.084
+
+\text{slope} = \frac{0.85- 0.58}{0.75 - 0.55} = \frac{0.27}{0.2} = \frac{2.7}{2} \approx 1.35
+
+y=1.35x + 0.11
+
+\text{slope} = \frac{0.66260026- 0.6625776}{0.7242884- 0.7242549} = \frac{0.0000226}{0.0000335} = \frac{0.226}{0.335} \approx 0.674
+
+y=0.674x + 0.12
+
+\frac{d}{dx}f(x) \approx \frac{f(\textcolor{green}{x + h}) - f(\textcolor{red}{x - h})}{\textcolor{green}{x + h} - \textcolor{red}{x - h}} = \frac{f({x + h}) - f({x - h})}{2h}
+
+\frac{d}{dx}x^n = nx^{n-1}
+
+\frac{d}{dx}x^3 = 3x^2
+
+\frac{d}{dx}x^5 = 5x^4

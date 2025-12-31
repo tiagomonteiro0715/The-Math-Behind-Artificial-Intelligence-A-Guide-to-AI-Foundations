@@ -1,0 +1,45 @@
+\mathbf{A} = \begin{bmatrix} 4 & -2 & 7 & 1 & 5 \end{bmatrix}
+
+\mathbf{B} = \begin{bmatrix}
+3 \\
+-1 \\
+8 \\
+0 \\
+-4
+\end{bmatrix}
+
+\mathbf{A} = \begin{bmatrix} 4 & -2 & 7 & 1 & 5 \end{bmatrix}
+
+4x_1 - 2x_2 + 7x_3 + x_4 + 5x_5 = k
+
+\mathbf{B} = \begin{bmatrix}
+3 \\
+-1 \\
+8 \\
+0 \\
+-4
+\end{bmatrix}
+
+\begin{align}
+x_1 &= 3 \\
+x_2 &= -1 \\
+x_3 &= 8 \\
+x_4 &= 0 \\
+x_5 &= -4
+\end{align}
+
+\mathbf{A} + \mathbf{B}^T = \begin{bmatrix} 4 & -2 & 7 & 1 & 5 \end{bmatrix} + \begin{bmatrix} 3 & -1 & 8 & 0 & -4 \end{bmatrix} = \begin{bmatrix} 7 & -3 & 15 & 1 & 1 \end{bmatrix}
+
+3\mathbf{A} = 3\begin{bmatrix} 4 & -2 & 7 & 1 & 5 \end{bmatrix} = \begin{bmatrix} 12 & -6 & 21 & 3 & 15 \end{bmatrix}
+
+ \mathbf{A} \times \mathbf{B} = \mathbf{A} = \begin{bmatrix} 4 & -2 & 7 & 1 & 5 \end{bmatrix} \times \begin{bmatrix}
+3 \\
+-1 \\
+8 \\
+0 \\
+-4
+\end{bmatrix} = 50
+
+\mathbf{A} \cdot \mathbf{B}^T = \begin{bmatrix} 4 & -2 & 7 & 1 & 5 \end{bmatrix} \cdot \begin{bmatrix} 3 & -1 & 8 & 0 & -4 \end{bmatrix} 
+
+= 4 \cdot 3 + (-2) \cdot (-1) + 7 \cdot 8 + 1 \cdot 0 + 5 \cdot (-4) = 50

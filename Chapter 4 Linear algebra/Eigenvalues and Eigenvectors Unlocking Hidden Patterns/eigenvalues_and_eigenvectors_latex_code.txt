@@ -1,0 +1,29 @@
+Av=λv
+
+det(A−λI)=0
+
+|A−λI|=0
+
+A = \begin{bmatrix} 2 & 0 \\ 0 & 3 \end{bmatrix}
+
+det(A−λI)=0
+
+det(A−λI)=0
+
+det(\begin{bmatrix} 2 & 0 \\ 0 & 3 \end{bmatrix} - λ \times \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}) = 0
+
+det(\begin{bmatrix} 2 & 0 \\ 0 & 3 \end{bmatrix} - \begin{bmatrix} λ & 0 \\ 0 & λ \end{bmatrix}) = 0
+
+det(\begin{bmatrix} 2-λ & 0 \\ 0 & 3-λ \end{bmatrix}) = 0
+
+(2-λ) \times (3-λ) = 0
+
+2-\lambda = 0 \text{ or } 3-\lambda = 0
+
+\lambda_1 = 2, \quad \lambda_2 = 3
+
+\mathbf{v_1} = \begin{bmatrix} 1 \\ 0 \end{bmatrix}, \quad \mathbf{v_2} = \begin{bmatrix} 0 \\ 1 \end{bmatrix}
+
+A\mathbf{v_1} = \begin{bmatrix} 2 & 0 \\ 0 & 3 \end{bmatrix}\begin{bmatrix} 1 \\ 0 \end{bmatrix} = \begin{bmatrix} 2 \\ 0 \end{bmatrix} = 2\begin{bmatrix} 1 \\ 0 \end{bmatrix}
+
+A\mathbf{v_2} = \begin{bmatrix} 2 & 0 \\ 0 & 3 \end{bmatrix}\begin{bmatrix} 0 \\ 1 \end{bmatrix} = \begin{bmatrix} 0 \\ 3 \end{bmatrix} = 3\begin{bmatrix} 0 \\ 1 \end{bmatrix}

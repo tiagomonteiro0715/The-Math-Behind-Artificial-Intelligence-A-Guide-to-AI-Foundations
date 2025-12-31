@@ -1,0 +1,15 @@
+y = x^2 - 4x + 3
+
+y = \begin{cases}
+1.5 + \frac{1}{x+1} & \text{if } -1 < x < 2 \\
+2 + \frac{2}{(x-1)^2} & \text{if } x > 2
+\end{cases}
+
+\begin{align} \lim_{x \to 0} (x^2 - 4x + 3) &= (0)^2 - 4(0) + 3 \\ &= 0 - 0 + 3 \\ &= 3 \end{align}
+
+\begin{align} \lim_{x \to 1} (x^2 - 4x + 3) &= (1)^2 - 4(1) + 3 \\ &= 1 - 4 + 3 \\ &= 0 \end{align}
+
+\begin{align} \lim_{x \to 2} (x^2 - 4x + 3) &= (2)^2 - 4(2) + 3 \\ &= 4 - 8 + 3 \\ &= -1 \end{align}
+
+
+
