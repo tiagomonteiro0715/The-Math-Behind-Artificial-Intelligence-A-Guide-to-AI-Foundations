@@ -7,9 +7,6 @@
 Current edition: Edition 1
 
 A book on the mathematical foundations of AI from an engineering perspective.
-
-Breaking down complex concepts into simple lessons.
-
 ---
 
 [My FreeCodeCamp page](https://www.freecodecamp.org/news/author/tiagomonteiro)
