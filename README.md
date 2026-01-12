@@ -1,5 +1,8 @@
 # The Math Behind Artificial Intelligence A Guide to AI Foundations
 
+I am imporving the the book in a feedback-oriented way and am open to any suggestions!!!!
+
+Please reach out at monteiro.t@northeastern.edu
 
 ![The Math Behind AI Book Cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1767723634484/4748bd8a-26a1-4d9c-89c3-1a6d07bde69e.png)
 
