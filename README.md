@@ -1,6 +1,8 @@
 # The Math Behind Artificial Intelligence A Guide to AI Foundations
 
-I am improving the the book in a feedback-oriented way and am open to any suggestions!!!!
+I am improving the the book in a feedback-oriented way. 
+
+I am open to any suggestions!!!!
 
 Please reach out at monteiro.t@northeastern.edu
 
