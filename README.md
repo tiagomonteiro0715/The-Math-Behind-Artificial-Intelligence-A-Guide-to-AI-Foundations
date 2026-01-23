@@ -18,35 +18,67 @@
 
 ---
 
+## Table of Contents
+- [What is this?](#what-is-this)
+- [Preview](#preview)
+- [Getting Started](#getting-started)
+- [Table of Contents (Book)](#table-of-contents)
+- [Code Examples](#code-examples)
+- [Contributing](#contributing)
+- [Related Resources](#related-resources)
+- [Built With](#built-with)
+- [Contact](#contact)
+- [License](#license)
+
+---
+
 ## What is this?
 
-This book bridges the gap between abstract mathematical theory and practical AI implementation. Whether you're an engineering student, self-taught developer, or AI practitioner, you'll find clear explanations of the math that powers modern artificial intelligence.
+*Most AI math books are written by mathematicians for mathematicians.* 
+
+However, this one is completely different. 
+
+Written from an engineering perspective (think in terms of building blocks), it connects theory to practice with visualizations, Python code, and real life applications.
+
+Whether you are a student, self-taught dev, or practitioner, you'll find clear explanations of complex math topics that make complex concepts accessible.
+
+You will explore not just *what* the math is but *why* it matters and *where* it is applied in real life. 
+
+For example, how derivatives make the backpropagation algorithm possible. Which in turn enables neural networks, which enable all LLMs.
+
+In less than a week it got over 20K views, and since then it is only growing!
 
 **What's included:**
-- **Linear Algebra for AI**: Vectors, matrices, and transformations in neural networks
-- **Calculus & Optimization**: Gradient descent, backpropagation, and loss functions
-- **Probability & Statistics**: Bayesian methods, distributions, and statistical learning
-- **Numerical Methods**: Practical computation techniques for AI algorithms
-- **Real-World Examples**: Code implementations alongside mathematical explanations
+- **The Architecture of Mathematics**: How math connects from foundations to AI, including Gödel's paradoxes and Einstein's relativity
+- **The Field of Artificial Intelligence**: From Control Theory to modern AI, understanding symbolic vs. non-symbolic AI approaches
+- **Linear Algebra**: Vectors, matrices, determinant, eigenvalues, and transformations that show geometry of data in machine learning
+- **Multivariable Calculus**: Limits, Derivatives, integrals, and how change in many directions powers backpropagation
+- **Probability & Statistics**: Bayesian methods, distributions, and Markov models for learning from uncertainty
+- **Optimization Theory**: Gradient descent, Adam optimizer, and how machines learn step by step
+- **Real-World Applications**: A lot of Python code examples, animated visualizations, and practical examples of where the math is applied
 
 ## Preview
 
 See how math come to life with visualizations!
-
-### Derivatives
-<p align="center">
-  <img src="https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations/raw/main/Chapter%205%20Multivariable%20Calculus/Derivatives%20How%20Things%20Change%20and%20How%20Fast/derivatives_images/derivatives_gif.gif" alt="Derivatives Animation" width="600"/>
-</p>
 
 ### Integrals
 <p align="center">
   <img src="https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations/raw/main/Chapter%205%20Multivariable%20Calculus/What%20about%20integral%20calculus/integral_images/integrals_animation.gif" alt="Integrals Animation" width="600"/>
 </p>
 
+### Derivatives
+<p align="center">
+  <img src="https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations/raw/main/Chapter%205%20Multivariable%20Calculus/Derivatives%20How%20Things%20Change%20and%20How%20Fast/derivatives_images/derivatives_gif.gif" alt="Derivatives Animation" width="600"/>
+</p>
+
 ### Linear Regression Visualization
 <p align="center">
   <img src="https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations/raw/main/Chapter%207%20Optimization%20Theory/Simple%20Optimization%20Techniques%20How%20Machines%20Learn%20Step%20by%20Step/linear_regression_graph_images/video_linear_regression.gif" alt="Linear Regression Animation" width="600"/>
 </p>
+
+
+
+
 
 ## Getting Started
 
@@ -120,7 +152,7 @@ See how math come to life with visualizations!
 
 ### About the Author
 
-## 💻 Code Examples
+## Code Examples
 
 Each chapter has its own folder with Python and latex code.
 ```bash
@@ -173,21 +205,21 @@ This book is actively being improved based on reader feedback! **I am open to an
 - [Ray.so](https://ray.so/) - For beautiful code snippets and visualizations
 - LaTeX - Mathematical typesetting
 
-## License
-
-[Add your license here - MIT, Creative Commons, etc.]
-
-## 📬 Contact
+## Contact
 
 **Tiago Monteiro**
-- 📧 Email: monteiro.t@northeastern.edu
-- 💻 GitHub: [@tiagomonteiro0715](https://github.com/tiagomonteiro0715)
-- ✍️ FreeCodeCamp: [Author Profile](https://www.freecodecamp.org/news/author/tiagomonteiro)
+- Email: monteiro.t@northeastern.edu
+- GitHub: [@tiagomonteiro0715](https://github.com/tiagomonteiro0715)
+- FreeCodeCamp: [Author Profile](https://www.freecodecamp.org/news/author/tiagomonteiro)
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations/blob/main/LICENSE) - see the LICENSE file for details.
 
 ---
 
 <p align="center">
-  ⭐ If you find this book helpful, please consider starring the repository!<br>
+  If you find this book helpful, please consider starring the repository!<br>
   Your support helps others discover this resource.
 </p>
 
