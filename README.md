@@ -18,6 +18,8 @@
 
 ---
 
+[Read on FreeCodeCamp](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book)
+
 ## Table of Contents
 - [What is this?](#what-is-this)
 - [Preview](#preview)
@@ -86,9 +88,7 @@ See how math come to life with visualizations!
 - Basic programming knowledge (Python recommended)
 - High school-level mathematics
 - Curiosity about how AI really works
-
-[Read on FreeCodeCamp](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book)
-
+- 
 ## Table of Contents
 
 ### Chapter 1: Background on this Book
