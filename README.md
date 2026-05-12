@@ -20,6 +20,9 @@
 
 [Read on FreeCodeCamp](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book)
 
+New book is out! [How to Build Optimal AI Agents That Actually Work – A Handbook for Devs
+](https://www.freecodecamp.org/news/how-to-build-optimal-ai-agents-that-actually-work-a-handbook-for-devs/)
+
 ## Table of Contents
 - [What is this?](#what-is-this)
 - [Preview](#preview)
