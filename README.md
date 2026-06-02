@@ -16,6 +16,18 @@
   <img src="https://img.shields.io/github/last-commit/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations" alt="Last Commit"/>
 </p>
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=tiagomonteiro0715%2FThe-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations&type=date&legend=bottom-right" />
+ </picture>
+</a>
+
+
+
 ---
 
 [Read on FreeCodeCamp](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book)
